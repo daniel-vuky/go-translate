@@ -1,4 +1,4 @@
-module github.com/anhvdk0711/go-translate
+module github.com/daniel-vuky/go-translate
 
 go 1.21.4
 
